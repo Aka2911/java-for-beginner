@@ -9,7 +9,7 @@ public class Baitap1 {
         // In ra gia tri cuar bien str
         System.out.println(str);
         // Noi chuoi va in ra man hinh
-        String str1 = "Dai hoc van lang";
+        String str1 = "Dai hoc van lang ncc co quai vat ba dau";
         String str2 = "dao duc - y chi - sang tao";
         System.out.println(str1 + " "+str2);
     
